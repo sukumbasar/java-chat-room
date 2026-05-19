@@ -2,8 +2,6 @@
 
 A real-time multi-client chat room application built with **Java Socket Programming**, **Multithreading**, **Synchronization**, and the **Producer–Consumer design pattern**. Both the server and client applications feature fully graphical interfaces built with **Java Swing**.
 
-> 📚 SWE002 — Concurrent and Real-Time Programming in Java | Midterm Project
-
 ---
 
 ## ✨ Features
