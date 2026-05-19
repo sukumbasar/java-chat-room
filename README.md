@@ -1,5 +1,3 @@
-# java-chat-room
-Java Network Chat Room — Multithreading, Producer-Consumer, Java Swing GUI
 # 💬 Java Network Chat Room
 
 A real-time multi-client chat room application built with **Java Socket Programming**, **Multithreading**, **Synchronization**, and the **Producer–Consumer design pattern**. Both the server and client applications feature fully graphical interfaces built with **Java Swing**.
