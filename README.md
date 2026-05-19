@@ -123,17 +123,3 @@ TYPE:username:content
 
 > 💡 To test with multiple clients, press **F6** again on ChatClient. Each client must have a unique username.
 
-
-## 🖼️ Screenshots
-
-### Server — Chat Session
-![Server](docs/screenshots/chatserver.png)
-
-### Client — Chat Interface
-![Client](docs/screenshots/client.png)
-
-### Kick User
-![Kick](docs/screenshots/kick.png)
-
-### Stop Server
-![Stop](docs/screenshots/stop.png)
